@@ -1,2 +1,3 @@
 #important note 
-## open index.html then oprn it from live server 
+## open index.html then open it from live server 
+## 
